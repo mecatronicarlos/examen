@@ -1,0 +1,12 @@
+{
+    "chromeWebSecurity": false,
+    "viewportWidth": 1500,
+    "viewportHeight": 900,
+    "defaultCommandTimeout": 15000,
+    "pageLoadTimeout": 9000,
+    "ignoreTestFiles": [
+        "**/__snapshots__/*",
+        "**/__image_snapshots__/*"
+      ]
+}
+
